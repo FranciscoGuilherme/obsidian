@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "5094f255cf221396",
+    "type": "split",
+    "children": [
+      {
+        "id": "25382c0f0058b393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3098b10df91520a1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "obsidian-gruposbf/(SBF-T) Treinamentos"
+              },
+              "icon": "lucide-file",
+              "title": "(SBF-T) Treinamentos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2f638fed5798ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5285e9bfa28a9a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6876745e8659e665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f6993917051a37f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SBF-Treinamentos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "286b8f4f50afafc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "b43abf7489fca77b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 546.5
+  },
+  "right": {
+    "id": "92878ff9bc129569",
+    "type": "split",
+    "children": [
+      {
+        "id": "879369c5f1783b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3053f1c3ddab1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c5a4506d4f5353cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "dbd3ba1ff6145b26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2b67fbf943bfee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3098b10df91520a1",
+  "lastOpenFiles": [
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Treinamentos.md",
+    "Tags",
+    "Sem título.md",
+    "obsidian-gruposbf/Suporte/Temp.md",
+    "obsidian-gruposbf/Suporte/Tags.md",
+    "obsidian-gruposbf/Suporte",
+    "obsidian-gruposbf/(SBF-VT) Vale Troca/(SBF-VT) - Vale troca.md",
+    "obsidian-gruposbf/(SBF-VT) Vale Troca",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Compliance/(SBF-T) Compliance.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Compliance",
+    "obsidian-gruposbf/(SBF-T) Treinamentos",
+    "obsidian-gruposbf/(SBF-MA) Motor de Alocação/(SBF-MA) Motor de Alocação.md",
+    "obsidian-gruposbf/(SBF-MA) Motor de Alocação",
+    "obsidian-gruposbf",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up an App Dev Environment on Google Cloud/(PGA) Set Up an App Dev Environment on Google Cloud.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up a Google Cloud Network/(PGA) Set Up a Google Cloud Network.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Reliable Google Cloud Infrastructure Design and Process/(PGA) Reliable Google Cloud Infrastructure Design and Process.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🗄️Google Cloud Bigtable.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🔥Google Firestore.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🔌Carrier Peering no GCP.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA - 📄 StatefulSet.yaml no Kubernetes.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/(PGA) Preparing for your Professional Cloud Architect Journey.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Optimize Costs for Google Kubernetes Engine/(PGA) Optimize Costs for Google Kubernetes Engine.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Observability in Google Cloud/(PGA) Observability in Google Cloud.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Logging and Monitoring in Google Cloud/(PGA) Logging and Monitoring in Google Cloud.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Implement Load Balancing on Compute Engine/(PGA) Implement Load Balancing on Compute Engine.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Google Cloud Fundamentals Core Infrastructure/(PGA) Google Cloud Fundamentals Core Infrastructure.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Getting Started with Google Kubernetes Engine/(PGA) Getting Started with Google Kubernetes Engine.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Essential Google Cloud Infrastructure Foundation/(PGA) Essential Google Cloud Infrastructure Foundation.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Essential Google Cloud Infrastructure Core Services/(PGA) Essential Google Cloud Infrastructure Core Services.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Elastic Google Cloud Infrastructure Scaling and Automation/(PGA) Elastic Google Cloud Infrastructure Scaling and Automation.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Developing Applications with Cloud Run on Google Cloud Fundamentals/(PGA) Developing Applications with Cloud Run on Google Cloud Fundamentals.md",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up an App Dev Environment on Google Cloud",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up a Google Cloud Network",
+    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Reliable Google Cloud Infrastructure Design and Process"
+  ]
+}

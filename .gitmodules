@@ -1,0 +1,6 @@
+[submodule "obsidian-knowledge"]
+	path = obsidian-knowledge
+	url = git@github.com:FranciscoGuilherme/obsidian-knowledge.git
+[submodule "obsidian-gruposbf"]
+	path = obsidian-gruposbf
+	url = git@github.com:grupo-sbf/obsidian-gruposbf.git

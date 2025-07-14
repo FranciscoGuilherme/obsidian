@@ -1,4 +1,6 @@
 [
   "highlightr-plugin",
-  "make-md"
+  "make-md",
+  "dataview",
+  "obsidian-plugin-toc"
 ]

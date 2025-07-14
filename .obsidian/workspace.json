@@ -11,15 +11,42 @@
             "id": "3098b10df91520a1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "656d6f8f20d5bb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "path": "obsidian-gruposbf/(SBF-T) Treinamentos"
+                "file": "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Como ser uma pessoa aliada.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "(SBF-T) Treinamentos"
+              "title": "SBF-T - Como ser uma pessoa aliada"
+            }
+          },
+          {
+            "id": "c7cd11fac7600b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-gruposbf/Suporte/Temp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temp"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +100,7 @@
             }
           },
           {
-            "id": "b43abf7489fca77b",
+            "id": "5a3d2eaef3fd7f6e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,40 +202,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3098b10df91520a1",
+  "active": "656d6f8f20d5bb95",
   "lastOpenFiles": [
-    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Treinamentos.md",
-    "Tags",
-    "Sem título.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Pessoa Aliada.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Empatia, Escutatória e Compaixão.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - O que é e o que não é privilégio.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Desigualdades Sociais.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Privilégios.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/SBF-T - Grupos historicamente minorizados e acesso a direitos.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Privilégio, Empatia e Pessoa Aliada/(SBF-T) Privilégio, Empatia e Pessoa Aliada.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Segurança psicológica, inteligência cultural e comunicações.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Como construir comportamentos inclusivos.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Consequências dos comportamentos não inclusivos.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - O que fazer para que os conteúdos inclusivos seja uma realidade?.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Linguagem neutra.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Expressões e situações racistas.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Bullying corporativo.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Expressões e situações capacitistas, etaritas e racistas.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Respeito e tolerância.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Comportamentos não inclusivos.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Expressões e situações LGBTIfóbicas.md",
     "obsidian-gruposbf/Suporte/Temp.md",
-    "obsidian-gruposbf/Suporte/Tags.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - A Exclusão do outro.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Comportamentos não Inclusivos/SBF-T - Preconceitos e discriminação.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Vieses Inconscientes/SBF-T - Como mitigar os efeitos dos Vieses Inconscientes.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Vieses Inconscientes/SBF-T - Impacto dos vieses inconscientes no nosso cotidiano.md",
+    "obsidian-knowledge/Suporte/Modelo.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão/(SBF-T) Vieses Inconscientes/SBF-T - Tipos de Vieses Inconscientes.md",
+    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Segurança da Informação/(SBF-T) Segurança da Informação.md",
+    "Tags",
     "obsidian-gruposbf/Suporte",
-    "obsidian-gruposbf/(SBF-VT) Vale Troca/(SBF-VT) - Vale troca.md",
     "obsidian-gruposbf/(SBF-VT) Vale Troca",
-    "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Compliance/(SBF-T) Compliance.md",
     "obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Compliance",
     "obsidian-gruposbf/(SBF-T) Treinamentos",
-    "obsidian-gruposbf/(SBF-MA) Motor de Alocação/(SBF-MA) Motor de Alocação.md",
     "obsidian-gruposbf/(SBF-MA) Motor de Alocação",
     "obsidian-gruposbf",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up an App Dev Environment on Google Cloud/(PGA) Set Up an App Dev Environment on Google Cloud.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up a Google Cloud Network/(PGA) Set Up a Google Cloud Network.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Reliable Google Cloud Infrastructure Design and Process/(PGA) Reliable Google Cloud Infrastructure Design and Process.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🗄️Google Cloud Bigtable.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🔥Google Firestore.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA -🔌Carrier Peering no GCP.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/PGA - 📄 StatefulSet.yaml no Kubernetes.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Preparing for your Professional Cloud Architect Journey/(PGA) Preparing for your Professional Cloud Architect Journey.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Optimize Costs for Google Kubernetes Engine/(PGA) Optimize Costs for Google Kubernetes Engine.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Observability in Google Cloud/(PGA) Observability in Google Cloud.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Logging and Monitoring in Google Cloud/(PGA) Logging and Monitoring in Google Cloud.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Implement Load Balancing on Compute Engine/(PGA) Implement Load Balancing on Compute Engine.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Google Cloud Fundamentals Core Infrastructure/(PGA) Google Cloud Fundamentals Core Infrastructure.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Getting Started with Google Kubernetes Engine/(PGA) Getting Started with Google Kubernetes Engine.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Essential Google Cloud Infrastructure Foundation/(PGA) Essential Google Cloud Infrastructure Foundation.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Essential Google Cloud Infrastructure Core Services/(PGA) Essential Google Cloud Infrastructure Core Services.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Elastic Google Cloud Infrastructure Scaling and Automation/(PGA) Elastic Google Cloud Infrastructure Scaling and Automation.md",
-    "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Developing Applications with Cloud Run on Google Cloud Fundamentals/(PGA) Developing Applications with Cloud Run on Google Cloud Fundamentals.md",
     "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up an App Dev Environment on Google Cloud",
     "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Set Up a Google Cloud Network",
     "obsidian-knowledge/Tecnologia/(PGA) Professional Google Architect/(PGA) Certificação/(PGA) Reliable Google Cloud Infrastructure Design and Process"

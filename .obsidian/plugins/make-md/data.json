@@ -45,7 +45,11 @@
     "obsidian-knowledge/obsidian-knowledge/Tecnologia",
     "//obsidian-knowledge/obsidian-knowledge/Tecnologia",
     "obsidian-gruposbf",
-    "//obsidian-knowledge"
+    "//obsidian-knowledge",
+    "obsidian-gruposbf/obsidian-gruposbf/(SBF-T) Treinamentos",
+    "obsidian-gruposbf/obsidian-gruposbf/(SBF-T) Treinamentos/obsidian-gruposbf/(SBF-T) Treinamentos/(SBF-T) Diversidade e inclusão",
+    "obsidian-gruposbf/obsidian-gruposbf/Suporte",
+    "obsidian-knowledge/obsidian-knowledge/Suporte"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

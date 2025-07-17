@@ -2,5 +2,10 @@
   "highlightr-plugin",
   "make-md",
   "dataview",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-icons-plugin",
+  "obsidian-excalidraw-plugin",
+  "tag-wrangler",
+  "obsidian-admonition",
+  "canvas-minimap"
 ]

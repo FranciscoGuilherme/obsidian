@@ -39,16 +39,16 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
-    "//obsidian-gruposbf",
     "obsidian-knowledge",
     "obsidian-knowledge/obsidian-knowledge/Tecnologia",
     "//obsidian-knowledge/obsidian-knowledge/Tecnologia",
     "obsidian-gruposbf",
-    "//obsidian-knowledge",
-    "obsidian-gruposbf/obsidian-gruposbf/(SBF-T) Treinamentos",
     "obsidian-knowledge/obsidian-knowledge/Suporte",
-    "obsidian-gruposbf/obsidian-gruposbf/Suporte"
+    "obsidian-gruposbf/obsidian-gruposbf/(SBF-T) Treinamentos",
+    "obsidian-gruposbf/obsidian-gruposbf/Suporte",
+    "//obsidian-gruposbf",
+    "//Templates",
+    "obsidian-gruposbf/obsidian-gruposbf/(SBF-MA) Motor de Alocação"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

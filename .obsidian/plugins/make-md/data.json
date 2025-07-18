@@ -54,7 +54,13 @@
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [],
-  "hiddenExtensions": [".mdb", "_assets", "_blocks"],
+  "hiddenExtensions": [
+    ".mdb",
+    "_assets",
+    "_blocks"
+  ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
